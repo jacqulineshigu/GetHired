@@ -1,0 +1,6 @@
+{
+  "name": "GetHired",
+  "description": "AI-powered semantic resume analysis, skill gap diagnostics, and resume improvement platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
